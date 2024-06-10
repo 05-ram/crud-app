@@ -49,7 +49,6 @@ const CreateRecord = () => {
             </Form>
         </div>
     )
-    
 }
 
 export default CreateRecord
